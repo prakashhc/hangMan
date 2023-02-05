@@ -168,7 +168,7 @@ public class Hangman {
 
     public static void main(String[] args) throws FileNotFoundException {
 
-        System.out.println("Welcome to Hangman! A submission by Prakash Chatlani");
+        System.out.println("Welcome to Hangman! A submission by Prakash Chatlani, Aadarsh Ganta, and Akshita Ramesh");
         Scanner scan = new Scanner(System.in);
 
         System.out.println();
